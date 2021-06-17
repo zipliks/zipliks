@@ -14,4 +14,4 @@ Skills: Bash (I'm kidding)
 - 🌱 I’m currently learning JavaScript, C++ 
 
   
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zipliks)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zipliks&show_icons=true)

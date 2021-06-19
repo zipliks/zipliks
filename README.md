@@ -10,7 +10,7 @@ Now I'm chilling out spending my time learning
 
 Skills: Bash (I'm kidding)
 
-- 🔭 I’m currently working on [Discord bot](https://github.com/Zipliks/badassBot) 
-- 🌱 I’m currently learning JavaScript, C++ 
+- 🔭 Currently working on [Discord bot](https://github.com/Zipliks/badassBot) 
+- 🌱 Currently learning JavaScript, C++ 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zipliks&show_icons=true)

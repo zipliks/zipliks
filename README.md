@@ -12,5 +12,3 @@ Skills: Bash (I'm kidding)
 
 - 🔭 Currently working on [Discord bot](https://github.com/Zipliks/badassBot) 
 - 🌱 Currently learning JavaScript, C++ 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zipliks&show_icons=true)

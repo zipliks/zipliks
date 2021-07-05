@@ -10,5 +10,5 @@ Now I'm chilling out spending my time learning
 
 Skills: Bash (I'm kidding)
 
-- 🔭 Projects mantained by me: [Discord bot](https://github.com/Zipliks/badassBot), [Steam Idle bot](https://github.com/Zipliks/steamBot), [Steam Switcher](https://github.com/Zipliks/yanss) (C++ ver.)
+- 🔭 Projects maintained by me: [Discord bot](https://github.com/Zipliks/badassBot), [Steam Idle bot](https://github.com/Zipliks/steamBot), [Steam Switcher](https://github.com/Zipliks/yanss) (C++ ver.)
 - 🌱 Currently learning JavaScript, C++ 

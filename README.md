@@ -11,4 +11,4 @@ Now I'm chilling out spending my time learning
 Skills: Bash (I'm kidding)
 
 - 🔭 Maintaining: [Discord bot](https://github.com/Zipliks/badassBot), [Steam Idle bot](https://github.com/Zipliks/steamBot), [Steam Switcher](https://github.com/Zipliks/yanss) (C++ ver.), [Barotrauma mod](https://github.com/hnappinn/Barotrauma-Advanced-Medicine-mod)
-- 🌱 Currently learning JavaScript, C++ 
+- 🌱 Currently learning: JavaScript (Node.js), C++ 

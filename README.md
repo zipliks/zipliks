@@ -12,4 +12,4 @@ Brief info
 
 ∟ 🔭 Maintaining: [Discord bot](https://github.com/Zipliks/badassBot), [Steam Idle bot](https://github.com/Zipliks/steambot-tutorial), [Steam Switcher](https://github.com/Zipliks/yanss) (C++ ver.), [Barotrauma mod](https://github.com/hnappinn/Barotrauma-Advanced-Medicine-mod)
 
-∟ 🌱 Currently learning: JavaScript (Node.js), C++ 
+∟ 🌱 Currently learning: JavaScript (Node.js), C++, C

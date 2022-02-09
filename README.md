@@ -1,7 +1,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/zipliks)
 
-#### Cooking spaghetti like a chief
+#### Spaghetti coder
 🐱‍👤 Team leader of [RMod](https://github.com/Zipliks/rmod). ( Abandoned :^) )
 
 🔭 Current projects: 

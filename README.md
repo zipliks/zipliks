@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/zipliks)
 
 #### Spaghetti coder
-🐱‍👤 Team leader of [RMod](https://github.com/Zipliks/rmod). ( Abandoned :^) )
+🐱‍👤 [RMod](https://github.com/Zipliks/rmod) creator. Shittiest utility ever, I'm so sorry :^)
 
 🔭 Current projects: 
 * [Discord Bot](https://github.com/Zipliks/discordBot) (v13)

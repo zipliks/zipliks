@@ -4,11 +4,12 @@
 #### Hard inside, young outside
 
 🐞 Obsolete and/or deprecated:
- * [RMod](https://github.com/Zipliks/rmod)
- * [Barotrauma mod](https://github.com/hnappinn/Barotrauma-Advanced-Medicine-mod)
+ * [R6S RMod](https://github.com/Zipliks/rmod)
+ * [Barotrauma Mod](https://github.com/hnappinn/Barotrauma-Advanced-Medicine-mod)
 
-🔭 Current projects: 
-* [Discord Bot](https://github.com/Zipliks/cogy-python-bot) (nextcord.py)
+🔭 Current projects (several are private currently): 
+* [Barotrauma Mod Lua](https://github.com/zipliks/advanced-medicine-lua)
+* [Discord Bot Python](https://github.com/Zipliks/cogy-python-bot) (nextcord.py)
 * [Steam Idle Bot](https://github.com/Zipliks/steambot-tutorial)
-* [Steam Switcher](https://github.com/Zipliks/yanss)
+* [Steam Account Switcher](https://github.com/Zipliks/yanss)
 

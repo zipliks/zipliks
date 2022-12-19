@@ -1,8 +1,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/zipliks)
 
-#### Hard inside, young outside
-
 🐞 Obsolete and/or deprecated:
  * [R6S RMod](https://github.com/Zipliks/rmod)
  * [Barotrauma Mod](https://github.com/hnappinn/Barotrauma-Advanced-Medicine-mod)

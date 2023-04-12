@@ -6,5 +6,5 @@
  * [Barotrauma Mod](https://github.com/hnappinn/Barotrauma-Advanced-Medicine-mod)
 
 🔭 Current projects (several are private currently): 
-* There is one related to Instagram. Currently in a private repository.
+* [Discord bot for Russian Barotrauma/Trusted Seas communities](https://github.com/Zipliks/discord-bot-python/tree/master)
 

@@ -1,4 +1,4 @@
-# ![](https://github.com/zipliks.png?size=24) Vladimir Kammerer
+# ![](https://github.com/zipliks.png?size=24)
 
 **Former Infosec Student** @ MIREA
 

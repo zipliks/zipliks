@@ -10,5 +10,3 @@
 <a href="https://zipliks.t.me" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" width="36" height="36" alt="Telegram"/></a>
 <a href="https://discord.com/users/zipliks" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a>
 </p>
-
-<a href="http://www.github.com/zipliks"><img src="https://github-readme-stats.vercel.app/api?username=zipliks&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zipliks's GitHub stats" /></a>
